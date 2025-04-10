@@ -1,4 +1,4 @@
-# 📞 Phone Now Call Center Analysis Dashboard
+📞 Phone Now Call Center Analysis Dashboard
 
 This Power BI project provides a detailed performance analysis of a fictional call center, "Phone Now." The dashboard was designed to help supervisors and decision-makers evaluate key metrics related to call handling, customer satisfaction, and agent performance.
 
@@ -18,8 +18,8 @@ The dashboard includes the following metrics and visualizations:
 - High Response Rate:Out of 5,000 total calls, 4,054 (81%) were answered.
 - Efficient Complaint Handling: 72.9% of complaints were resolved (3,646 out of 5,000).
 - Agent Performance:
-  - Agents like *Stewart* and *Martha* had **high call volumes and high satisfaction scores, placing them in the "High Calls & High Satisfaction" quadrant.
-  - *Becky* had the lowest performance both in terms of speed of answer and customer satisfaction.
+  - Agents like Stewart and Martha had high call volumes and high satisfaction scores, placing them in the "High Calls & High Satisfaction" quadrant.
+  - Becky had the lowest performance both in terms of speed of answer and customer satisfaction.
 - Time-Based Talk Patterns: Longer talk durations tend to occur mid-morning and mid-afternoon.
 - Declining Satisfaction Trend: Customer satisfaction decreased steadily from January to March.
 
