@@ -1,15 +1,15 @@
-# 📞 Phone Now Call Center Interaction Dashboard
+📞 Phone Now Call Center Interaction Dashboard
 
 This project is a Power BI dashboard built to analyze customer interactions at the Phone Now Call Center. It provides insights into customer demographics, service subscriptions, churn analysis, and key drivers of customer retention.
 
-## 📊 Project Objective
+📊 Project Objective
 To help stakeholders:
 - Understand the profile and behavior of customers
 - Track trends in service usage and churn
 - Identify factors contributing to customer churn
 - Prioritize actionable strategies for improving retention
 
-## 🧩 Dashboard Pages & Features
+🧩 Dashboard Pages & Features
 
 1. Home 
    - Overview of the dashboard's purpose and navigation instructions.
