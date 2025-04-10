@@ -30,8 +30,13 @@ To help stakeholders:
    - Summarizes key insights from the analysis.
    - Focuses on the top churn factors and retention strategies.
 
-## 🛠️ Tools & Skills Used
-- Power BI Desktop**
+Key Insights
+The churn rate is 26.54%, with higher churn among month-to-month contract users and those paying via electronic check. 
+Churned customers incur higher monthly charges ($74.44) and raise more technical tickets (1.16) than non-churned customers. In contrast, customers with longer tenures (over 24.56 months) are 15.37 times more likely to stay, and those on longer-term contracts show greater retention. 
+Access to tech support and lower total charges also correlate with lower churn. To reduce churn, focus on contract upgrades, service reliability, early engagement, and promoting more stable payment methods.
+
+🛠️ Tools & Skills Used
+- Power BI Desktop
 - Data Modeling & Relationships
 - DAX (Data Analysis Expressions)
 - Power Query (ETL)
